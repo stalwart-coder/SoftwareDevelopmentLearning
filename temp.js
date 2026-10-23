@@ -11,3 +11,6 @@ function sub(a,b){
 sub(3,5);
 sub(6,1);
 sub(-1,-5)
+function multiply(a,b,c){
+    return a*b*c
+}
